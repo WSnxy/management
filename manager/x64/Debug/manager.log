@@ -1,0 +1,9 @@
+﻿  treeMap.c
+c:\users\asus\desktop\数据结构课程设计\manager\manager\treemap.c(196): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  check.c
+c:\users\asus\desktop\数据结构课程设计\manager\manager\check.c(45): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  dyAarray.c
+c:\users\asus\desktop\数据结构课程设计\manager\manager\dyaarray.c(53): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  manager.c
+c:\users\asus\desktop\数据结构课程设计\manager\manager\manager.c(483): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  正在生成代码...
